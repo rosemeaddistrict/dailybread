@@ -7,7 +7,7 @@ const FetchJFile = (props) => {
 
   useEffect(() => {
     // The path is relative to the public folder (e.g., '/data.json')
-    fetch('dailybread/dailybread.json') 
+    fetch('dailybread.json') 
       .then(response => {
         if (!response.ok) {
           throw new Error('Network response was not ok');
