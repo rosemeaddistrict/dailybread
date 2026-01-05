@@ -1,11 +1,11 @@
 {
-    "curWeek": "12.28.2025 - 1.04.2025",
+    "curWeek": "1.04.2025 - 1.10.2025",
     "items": [
         {
             "name": "晨兴圣言",
             "book": "2025年夏季训练 经历、享受并彰显基督（三）",
-            "chapter": "第十一周",
-            "subject": "永远生命的交通—在基督身体里生活的实际",
+            "chapter": "第十二周",
+            "subject": "那真实者",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -16,7 +16,11 @@
                     "books": [
                         {
                         "name": "撒母耳记上",
-                        "chapters": "第23~27章"
+                        "chapters": "第28~31章"
+                        },
+                        {
+                        "name": "撒母耳记下",
+                        "chapters": "第1章"
                         }
                     ]
                 },
@@ -24,12 +28,8 @@
                     "name": "新约", 
                     "books": [
                         {
-                        "name": "启示录",
-                        "chapters": "第21~22章"
-                        },
-                        {
                         "name": "马太福音",
-                        "chapters": "第1~2章"
+                        "chapters": "第3~7章"
                         }
                     ]
                 }
