@@ -1,11 +1,11 @@
 {
-    "curWeek": "1.04.2025 - 1.10.2025",
+    "curWeek": "1.18.2025 - 1.24.2025",
     "items": [
         {
             "name": "晨兴圣言",
-            "book": "2025年夏季训练 经历、享受并彰显基督（三）",
-            "chapter": "第十二周",
-            "subject": "那真实者",
+            "book": "2025年秋季长老负责弟兄训练 马太福音五至七章极重要的方面",
+            "chapter": "第二周",
+            "subject": "哀恸者之福，温柔者之福，以及称为神儿子的制造和平者之福",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -15,12 +15,8 @@
                     "name": "旧约", 
                     "books": [
                         {
-                        "name": "撒母耳记上",
-                        "chapters": "第28~31章"
-                        },
-                        {
                         "name": "撒母耳记下",
-                        "chapters": "第1章"
+                        "chapters": "第7~11章"
                         }
                     ]
                 },
@@ -29,7 +25,7 @@
                     "books": [
                         {
                         "name": "马太福音",
-                        "chapters": "第3~7章"
+                        "chapters": "第13~17章"
                         }
                     ]
                 }
@@ -41,14 +37,10 @@
             "books": [
                 {
                     "name": "生命的认识", 
-                    "chapters": "第5, 6篇"
-                },
-                {
-                    "name": "圣经要道", 
-                    "chapters": "第21, 22题"
+                    "chapters": "第10, 11篇"
                 }
             ],
-            "date": "1.15.2025",
+            "date": "2.12.2025",
             "link": "https://my-google-api-server.onrender.com/study/"
         }
     ]
