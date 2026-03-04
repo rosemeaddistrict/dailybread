@@ -1,11 +1,11 @@
 {
-    "curWeek": "2.22.2025 - 2.28.2025",
+    "curWeek": "3.01.2026 - 3.07.2026",
     "items": [
         {
             "name": "晨兴圣言",
             "book": "2025年秋季长老负责弟兄训练 马太福音五至七章极重要的方面",
-            "chapter": "第七周",
-            "subject": "进窄门并走那引到生命的狭路，这生命就是国度永远蒙福的光景",
+            "chapter": "第八周",
+            "subject": "先寻求神的国和祂的义",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -16,7 +16,7 @@
                     "books": [
                         {
                         "name": "列王纪上",
-                        "chapters": "第8~12章"
+                        "chapters": "第13~17章"
                         }
                     ]
                 },
@@ -25,7 +25,11 @@
                     "books": [
                         {
                         "name": " 马可福音",
-                        "chapters": "第10~14章"
+                        "chapters": "第14~15章"
+                        },
+                        {
+                        "name": " 路加福音",
+                        "chapters": "第1~3章"
                         }
                     ]
                 }
