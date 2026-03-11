@@ -1,11 +1,11 @@
 {
-    "curWeek": "3.01.2026 - 3.07.2026",
-    "items": [
+    "curWeek": "3.08.2026 - 3.14.2026",
+    "items": 
         {
             "name": "晨兴圣言",
             "book": "2025年秋季长老负责弟兄训练 马太福音五至七章极重要的方面",
-            "chapter": "第八周",
-            "subject": "先寻求神的国和祂的义",
+            "chapter": "第九周",
+            "subject": "实行父的旨意，使我们得以在“那日”，就是基督审判台的日子，进入父的国",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -16,7 +16,7 @@
                     "books": [
                         {
                         "name": "列王纪上",
-                        "chapters": "第13~17章"
+                        "chapters": "第18~22章"
                         }
                     ]
                 },
@@ -24,12 +24,8 @@
                     "name": "新约", 
                     "books": [
                         {
-                        "name": " 马可福音",
-                        "chapters": "第14~15章"
-                        },
-                        {
                         "name": " 路加福音",
-                        "chapters": "第1~3章"
+                        "chapters": "第4~8章"
                         }
                     ]
                 }
