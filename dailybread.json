@@ -1,11 +1,11 @@
 {
-    "curWeek": "3.08.2026 - 3.14.2026",
+    "curWeek": "3.15.2026 - 3.21.2026",
     "items": [
         {
             "name": "晨兴圣言",
-            "book": "2025年秋季长老负责弟兄训练 马太福音五至七章极重要的方面",
-            "chapter": "第九周",
-            "subject": "实行父的旨意，使我们得以在“那日”，就是基督审判台的日子，进入父的国",
+            "book": "2025年感恩节特会 马太福音中所启示包罗万有的基督",
+            "chapter": "第一周",
+            "subject": "作为活星之属天基督当前、即时、活的异象",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -15,8 +15,8 @@
                     "name": "旧约", 
                     "books": [
                         {
-                        "name": "列王纪上",
-                        "chapters": "第18~22章"
+                        "name": "列王纪下",
+                        "chapters": "第1~5章"
                         }
                     ]
                 },
@@ -25,7 +25,7 @@
                     "books": [
                         {
                         "name": " 路加福音",
-                        "chapters": "第4~8章"
+                        "chapters": "第9~13章"
                         }
                     ]
                 }
@@ -40,7 +40,7 @@
                     "chapters": "第四篇-对付罪, 第五篇-对付的世界"
                 }
             ],
-            "date": "3.12.2025",
+            "date": "4.16.2025",
             "link": "https://my-google-api-server.onrender.com/study/"
         }
     ]
