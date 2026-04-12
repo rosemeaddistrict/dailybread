@@ -4,8 +4,8 @@
         {
             "name": "晨兴圣言",
             "book": "2025年感恩节特会 马太福音中所启示包罗万有的基督",
-            "chapter": "第四周",
-            "subject": "基督作为经过过程之三一神的中心",
+            "chapter": "第五周",
+            "subject": "基督作为那赐我们安息者",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -16,7 +16,7 @@
                     "books": [
                         {
                         "name": "列王纪下",
-                        "chapters": "第16~20章"
+                        "chapters": "第21~25章"
                         }
                     ]
                 },
@@ -24,12 +24,8 @@
                     "name": "新约", 
                     "books": [
                         {
-                        "name": "路加福音",
-                        "chapters": "第24章"
-                        },
-                        {
                         "name": "约翰福音",
-                        "chapters": "第1~4章"
+                        "chapters": "第5~9章"
                         }
                     ]
                 }
