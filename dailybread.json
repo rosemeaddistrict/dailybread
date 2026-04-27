@@ -3,9 +3,9 @@
     "items": [
         {
             "name": "晨兴圣言",
-            "book": "2025年感恩节特会 马太福音中所启示包罗万有的基督",
-            "chapter": "第六周",
-            "subject": "基督作为那有天上地上所有权柄的一位",
+            "book": "2025年冬季训练 经历、享受并彰显基督（四）",
+            "chapter": "第一周",
+            "subject": "神忠信的见证人，为着耶稣的见证",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -16,7 +16,7 @@
                     "books": [
                         {
                         "name": "历代志上",
-                        "chapters": "第1~5章"
+                        "chapters": "第6~10章"
                         }
                     ]
                 },
@@ -25,7 +25,7 @@
                     "books": [
                         {
                         "name": "约翰福音",
-                        "chapters": "第10~14章"
+                        "chapters": "第15~19章"
                         }
                     ]
                 }
