@@ -1,11 +1,11 @@
 {
-    "curWeek": "4.12.2026 - 4.18.2026",
+    "curWeek": "4.19.2026 - 4.26.2026",
     "items": [
         {
             "name": "晨兴圣言",
-            "book": "2025年感恩节特会 马太福音中所启示包罗万有的基督",
-            "chapter": "第五周",
-            "subject": "基督作为那赐我们安息者",
+            "book": "2025年冬季训练 经历、享受并彰显基督（四）",
+            "chapter": "第一周",
+            "subject": "神忠信的见证人，为着耶稣的见证",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -15,8 +15,8 @@
                     "name": "旧约", 
                     "books": [
                         {
-                        "name": "列王纪下",
-                        "chapters": "第21~25章"
+                        "name": "历代志上",
+                        "chapters": "第6~10章"
                         }
                     ]
                 },
@@ -25,7 +25,7 @@
                     "books": [
                         {
                         "name": "约翰福音",
-                        "chapters": "第5~9章"
+                        "chapters": "第15~19章"
                         }
                     ]
                 }
@@ -37,10 +37,10 @@
             "books": [
                 {
                     "name": "生命的经历", 
-                    "chapters": "第七篇 - 順服膏油塗抹的教訓, 第八篇 - 明白神的旨意"
+                    "chapters": "第九篇 - 對付肉體, 第十篇 - 對付己"
                 }
             ],
-            "date": "4.16.2025",
+            "date": "5.14.2025",
             "link": "https://my-google-api-server.onrender.com/study/"
         }
     ]
