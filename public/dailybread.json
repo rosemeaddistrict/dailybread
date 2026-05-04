@@ -1,11 +1,11 @@
 {
-    "curWeek": "4.26.2026 - 5.02.2026",
+    "curWeek": "5.03.2026 - 5.09.2026",
     "items": [
         {
             "name": "晨兴圣言",
             "book": "2025年冬季训练 经历、享受并彰显基督（四）",
-            "chapter": "第一周",
-            "subject": "神忠信的见证人，为着耶稣的见证",
+            "chapter": "第二周",
+            "subject": "基督拿着死亡和阴间的钥匙",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -16,7 +16,7 @@
                     "books": [
                         {
                         "name": "历代志上",
-                        "chapters": "第6~10章"
+                        "chapters": "第11~15章"
                         }
                     ]
                 },
@@ -25,7 +25,11 @@
                     "books": [
                         {
                         "name": "约翰福音",
-                        "chapters": "第15~19章"
+                        "chapters": "第20~21章"
+                        },
+                        {
+                        "name": "使徒行传",
+                        "chapters": "第1~3章"
                         }
                     ]
                 }
