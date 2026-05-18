@@ -1,11 +1,11 @@
 {
-    "curWeek": "5.10.2026 - 5.16.2026",
+    "curWeek": "5.17.2026 - 5.23.2026",
     "items": [
         {
             "name": "晨兴圣言",
             "book": "2025年冬季训练 经历、享受并彰显基督（四）",
-            "chapter": "第三周",
-            "subject": "基督是人子在金灯台中间行走 ",
+            "chapter": "第四周",
+            "subject": "狮子羔羊",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -16,7 +16,7 @@
                     "books": [
                         {
                         "name": "历代志上",
-                        "chapters": "第16~20章"
+                        "chapters": "第21~25章"
                         }
                     ]
                 },
@@ -25,7 +25,7 @@
                     "books": [
                         {
                         "name": "使徒行传",
-                        "chapters": "第4~8章"
+                        "chapters": "第9~13章"
                         }
                     ]
                 }
@@ -37,10 +37,10 @@
             "books": [
                 {
                     "name": "生命的经历", 
-                    "chapters": "第九篇 - 對付肉體, 第十篇 - 對付己"
+                    "chapters": "第十一篇 - 对付天然, 第十二篇 - 接受圣灵的管治"
                 }
             ],
-            "date": "5.14.2025",
+            "date": "6.18.2026",
             "link": "https://my-google-api-server.onrender.com/study/"
         }
     ]
