@@ -1,11 +1,11 @@
 {
-    "curWeek": "5.17.2026 - 5.23.2026",
+    "curWeek": "5.24.2026 - 5.30.2026",
     "items": [
         {
             "name": "晨兴圣言",
             "book": "2025年冬季训练 经历、享受并彰显基督（四）",
-            "chapter": "第四周",
-            "subject": "狮子羔羊",
+            "chapter": "第五周",
+            "subject": " 生命树",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -16,7 +16,11 @@
                     "books": [
                         {
                         "name": "历代志上",
-                        "chapters": "第21~25章"
+                        "chapters": "第26~29章"
+                        },
+                        {
+                        "name": "历代志下",
+                        "chapters": "第1章"
                         }
                     ]
                 },
@@ -25,7 +29,7 @@
                     "books": [
                         {
                         "name": "使徒行传",
-                        "chapters": "第9~13章"
+                        "chapters": "第14~18章"
                         }
                     ]
                 }
