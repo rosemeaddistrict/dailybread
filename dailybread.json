@@ -4,8 +4,8 @@
         {
             "name": "晨兴圣言",
             "book": "2025年冬季训练 经历、享受并彰显基督（四）",
-            "chapter": "第五周",
-            "subject": " 生命树",
+            "chapter": "第六周",
+            "subject": "基督，永远的王，来据有全地并完成神的奥秘",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -15,12 +15,8 @@
                     "name": "旧约", 
                     "books": [
                         {
-                        "name": "历代志上",
-                        "chapters": "第26~29章"
-                        },
-                        {
                         "name": "历代志下",
-                        "chapters": "第1章"
+                        "chapters": "第2~6章"
                         }
                     ]
                 },
@@ -29,7 +25,7 @@
                     "books": [
                         {
                         "name": "使徒行传",
-                        "chapters": "第14~18章"
+                        "chapters": "第19~23章"
                         }
                     ]
                 }
