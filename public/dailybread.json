@@ -30,7 +30,7 @@
                     ]
                 }
             ],
-            "link": "https://my-google-api-server.onrender.com/study/"
+            "link": "https://my-google-api-server.onrender.com/study/?id=1"
         },
         {
             "name": "属灵书报",
@@ -41,7 +41,7 @@
                 }
             ],
             "date": "6.18.2026",
-            "link": "https://my-google-api-server.onrender.com/study/"
+            "link": "https://my-google-api-server.onrender.com/study/?id=3"
         }
     ]
 }
