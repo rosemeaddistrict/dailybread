@@ -18,7 +18,8 @@
                         "name": "历代志下",
                         "chapters": "第12~16章"
                         }
-                    ]
+                    ],
+                    "link": "https://my-google-api-server.onrender.com/study/?id=1"
                 },
                 {
                     "name": "新约", 
@@ -27,10 +28,10 @@
                         "name": "罗马书",
                         "chapters": "第1~5章"
                         }
-                    ]
+                    ],
+                    "link": "https://my-google-api-server.onrender.com/study/?id=2"
                 }
-            ],
-            "link": "https://my-google-api-server.onrender.com/study/?id=1"
+            ]
         },
         {
             "name": "属灵书报",
