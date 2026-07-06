@@ -1,11 +1,11 @@
 {
-    "curWeek": "6.28.2026 - 7.04.2026",
+    "curWeek": "7.05.2026 - 7.11.2026",
     "items": [
         {
             "name": "晨兴圣言",
             "book": "2025年冬季训练 经历、享受并彰显基督（四）",
-            "chapter": "第十周",
-            "subject": "基督—国度的建立者，以及神的话—万王之王，万主之主",
+            "chapter": "第十一周",
+            "subject": "羔羊神在城内的宝座上",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -16,7 +16,7 @@
                     "books": [
                         {
                         "name": "历代志下",
-                        "chapters": "第22~26章"
+                        "chapters": "第27~31章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=1"
@@ -26,7 +26,11 @@
                     "books": [
                         {
                         "name": "罗马书",
-                        "chapters": "第11~15章"
+                        "chapters": "第16章"
+                        },
+                        {
+                        "name": "哥林多前书",
+                        "chapters": "第1~4章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=2"
