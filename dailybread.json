@@ -1,11 +1,11 @@
 {
-    "curWeek": "7.05.2026 - 7.11.2026",
+    "curWeek": "7.12.2026 - 7.18.2026",
     "items": [
         {
             "name": "晨兴圣言",
             "book": "2025年冬季训练 经历、享受并彰显基督（四）",
-            "chapter": "第十一周",
-            "subject": "羔羊神在城内的宝座上",
+            "chapter": "第十二周",
+            "subject": "基督要来施行赏罚，照在暗处的灯，以及基督要像晨星暗中向祂的得胜者显现",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -16,7 +16,7 @@
                     "books": [
                         {
                         "name": "历代志下",
-                        "chapters": "第27~31章"
+                        "chapters": "第32~36章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=1"
@@ -25,12 +25,8 @@
                     "name": "新约", 
                     "books": [
                         {
-                        "name": "罗马书",
-                        "chapters": "第16章"
-                        },
-                        {
                         "name": "哥林多前书",
-                        "chapters": "第1~4章"
+                        "chapters": "第5~9章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=2"
