@@ -1,11 +1,11 @@
 {
-    "curWeek": "7.12.2026 - 7.18.2026",
+    "curWeek": "7.19.2026 - 7.25.2026",
     "items": [
         {
             "name": "晨兴圣言",
-            "book": "2025年冬季训练 经历、享受并彰显基督（四）",
-            "chapter": "第十二周",
-            "subject": "基督要来施行赏罚，照在暗处的灯，以及基督要像晨星暗中向祂的得胜者显现",
+            "book": "2026年国际华语特会 挪亚、但以理和约伯—在生命线上过得胜生活以成就神经纶的榜样",
+            "chapter": "第一周",
+            "subject": "按照时代的异象生活并工作而转移时代",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -15,8 +15,8 @@
                     "name": "旧约", 
                     "books": [
                         {
-                        "name": "历代志下",
-                        "chapters": "第32~36章"
+                        "name": "以斯拉记",
+                        "chapters": "第1~5章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=1"
@@ -26,7 +26,7 @@
                     "books": [
                         {
                         "name": "哥林多前书",
-                        "chapters": "第5~9章"
+                        "chapters": "第10~14章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=2"
@@ -38,10 +38,10 @@
             "books": [
                 {
                     "name": "生命的经历", 
-                    "chapters": "第十三篇 - 對付靈, 第十四篇 - 被聖靈充滿"
+                    "chapters": "第十五篇 - 认识身体, 第十六篇 - 认识升天"
                 }
             ],
-            "date": "7.16.2026",
+            "date": "8.13.2026",
             "link": "https://my-google-api-server.onrender.com/study/?id=3"
         }
     ]
