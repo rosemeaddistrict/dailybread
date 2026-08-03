@@ -1,11 +1,11 @@
 {
-    "curWeek": "7.26.2026 - 8.01.2026",
+    "curWeek": "8.02.2026 - 8.08.2026",
     "items": [
         {
             "name": "晨兴圣言",
             "book": "2026年国际华语特会 挪亚、但以理和约伯—在生命线上过得胜生活以成就神经纶的榜样",
-            "chapter": "第二周",
-            "subject": "挪亚身上的生命线—改变时代的生活与工作",
+            "chapter": "第三周",
+            "subject": "得胜者的胜利，见于但以理和他的同伴",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -15,8 +15,8 @@
                     "name": "旧约", 
                     "books": [
                         {
-                        "name": "以斯拉记",
-                        "chapters": "第6~10章"
+                        "name": "尼希米记",
+                        "chapters": "第1~5章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=1"
@@ -26,11 +26,7 @@
                     "books": [
                         {
                         "name": "哥林多后书",
-                        "chapters": "第15~16章"
-                        },
-                        {
-                        "name": "哥林多前书",
-                        "chapters": "第1~3章"
+                        "chapters": "第4~8章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=2"
