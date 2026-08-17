@@ -1,11 +1,11 @@
 {
-    "curWeek": "8.09.2026 - 8.15.2026",
+    "curWeek": "8.16.2026 - 8.22.2026",
     "items": [
         {
             "name": "晨兴圣言",
             "book": "2026年国际华语特会 挪亚、但以理和约伯—在生命线上过得胜生活以成就神经纶的榜样",
-            "chapter": "第四周",
-            "subject": "约伯和两棵树",
+            "chapter": "第五周",
+            "subject": "神对约伯的心意—使好人成为神人",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -16,7 +16,11 @@
                     "books": [
                         {
                         "name": "尼希米记",
-                        "chapters": "第6~10章"
+                        "chapters": "第11~13章"
+                        },
+                        {
+                        "name": "以斯帖记",
+                        "chapters": "第1~2章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=1"
@@ -25,8 +29,8 @@
                     "name": "新约", 
                     "books": [
                         {
-                        "name": "哥林多后书",
-                        "chapters": "第9~13章"
+                        "name": "加拉太书 ",
+                        "chapters": "第1~5章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=2"
@@ -37,11 +41,11 @@
             "name": "属灵书报",
             "books": [
                 {
-                    "name": "生命的经历", 
-                    "chapters": "第十五篇 - 认识身体, 第十六篇 - 认识升天"
+                    "name": "约翰福音生命读经", 
+                    "chapters": "第一篇 前言, 第二篇 生命与建造的引言（一）"
                 }
             ],
-            "date": "8.13.2026",
+            "date": "9.17.2026",
             "link": "https://my-google-api-server.onrender.com/study/?id=3"
         }
     ]
