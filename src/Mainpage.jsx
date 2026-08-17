@@ -13,7 +13,7 @@ function Mainpage(props){
         <h3>{props.data.items[1].books[0].name}:
             <> <a href={props.data.items[1].books[0].link}>
             {props.data.items[1].books[0].books.map((book)=>{
-                return <>{book.name} {book.chapters}</>
+                return <> {book.name} {book.chapters}</>
             })}
         </a></></h3>
         <h3>{props.data.items[1].books[1].name}:
