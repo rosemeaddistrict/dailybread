@@ -1,11 +1,11 @@
 {
-    "curWeek": "8.16.2026 - 8.22.2026",
+    "curWeek": "8.23.2026 - 8.29.2026",
     "items": [
         {
             "name": "晨兴圣言",
-            "book": "2026年国际华语特会 挪亚、但以理和约伯—在生命线上过得胜生活以成就神经纶的榜样",
-            "chapter": "第五周",
-            "subject": "神对约伯的心意—使好人成为神人",
+            "book": "2026年春季长老负责弟兄训练 话语的职事与为着神的经纶之神的分赐",
+            "chapter": "第一周",
+            "subject": "坚定持续地祷告，并尽话语的职事",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -15,12 +15,8 @@
                     "name": "旧约", 
                     "books": [
                         {
-                        "name": "尼希米记",
-                        "chapters": "第11~13章"
-                        },
-                        {
                         "name": "以斯帖记",
-                        "chapters": "第1~2章"
+                        "chapters": "第3~7章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=1"
@@ -30,7 +26,11 @@
                     "books": [
                         {
                         "name": "加拉太书 ",
-                        "chapters": "第1~5章"
+                        "chapters": "第6章"
+                        },
+                        {
+                        "name": "以弗所书",
+                        "chapters": "第1~4章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=2"
@@ -42,7 +42,7 @@
             "books": [
                 {
                     "name": "约翰福音生命读经", 
-                    "chapters": "第一篇 前言, 第二篇 生命与建造的引言（一）"
+                    "chapters": "第三篇 生命与建造的引言（二）, 第四篇 生命与建造的引言（三）"
                 }
             ],
             "date": "9.17.2026",
