@@ -1,11 +1,11 @@
 {
-    "curWeek": "10.04.2026 - 10.10.2026",
+    "curWeek": "10.11.2026 - 10.17.2026",
     "items": [
         {
             "name": "晨兴圣言",
             "book": "2026年春季长老负责弟兄训练 话语的职事与为着神的经纶之神的分赐",
-            "chapter": "第七周",
-            "subject": "三一神将祂自己分赐到我们里面的永远福分，为作我们的享受并完成祂的经纶",
+            "chapter": "第八周",
+            "subject": "三一神作生命分赐到三部分的人里，乃是根据祂的公义，借着祂的圣别，而达到祂的荣耀",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -16,7 +16,7 @@
                     "books": [
                         {
                         "name": "約伯記",
-                        "chapters": "第23~27章"
+                        "chapters": "第28~32章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=1"
@@ -25,12 +25,16 @@
                     "name": "新约", 
                     "books": [
                         {
-                        "name": "提摩太后书",
-                        "chapters": "第2~4章"
+                        "name": "提多書",
+                        "chapters": "第3章"
                         },
                         {
-                        "name": "提多書",
-                        "chapters": "第1~2章"
+                        "name": "腓利門書",
+                        "chapters": "第1章"
+                        },
+                        {
+                        "name": "希伯來",
+                        "chapters": "第1~3章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=2"
@@ -42,7 +46,7 @@
             "books": [
                 {
                     "name": "约翰福音生命读经", 
-                    "chapters": "第十五篇、飢餓人的需要－生命的餧養（一）, 第十六篇、飢餓人的需要－生命的餧養（二）"
+                    "chapters": "第十七篇、乾渴人的需要－生命的解渴（一）, 第十八篇、乾渴人的需要－生命的解渴（二）"
                 }
             ],
             "date": "10.15.2026",
