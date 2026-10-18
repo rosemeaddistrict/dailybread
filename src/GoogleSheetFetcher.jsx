@@ -51,7 +51,7 @@ function GoogleSheetFetcher() {
     <h3>{sheetData[2]?.[1]}: <a href={sheetData[2]?.[4]}>{sheetData[2]?.[2]}</a></h3>
     <h3>{sheetData[3]?.[1]}: <a href={sheetData[3]?.[4]}>{sheetData[3]?.[2]}</a></h3>
     <h2>{sheetData[4]?.[0]}</h2>
-    <h3>进度: <a href={sheetData[4]?.[4]}>{sheetData[4]?.[1]} {sheetData[4]?.[2]}</a></h3>
+    <h3>{sheetData[4]?.[1]}: <a href={sheetData[4]?.[4]}>{sheetData[4]?.[2]}</a></h3>
     <h3>{sheetData[5]?.[0]}: {sheetData[5]?.[1]}</h3>
     </div>
   );
