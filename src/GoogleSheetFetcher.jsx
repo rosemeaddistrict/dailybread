@@ -13,17 +13,11 @@ function GoogleSheetFetcher() {
     const sheetId = import.meta.env.VITE_SHEET_ID;
 
     // Define the exact sheet name and cell range you want to read
-    const range = 'Main!B2:G6'; // Adjust this range as needed
+    const range = 'Main!A2:G7'; // Adjust this range as needed
     const url = `https://sheets.googleapis.com/v4/spreadsheets/${sheetId}/values/${range}?key=${apiKey}`;
 
-    // 3. Fetch the data from Google with the referrer fix
-    fetch(url, {
-      method: 'GET',
-      headers: {
-        'Accept': 'application/json',
-      },
-      referrerPolicy: 'origin' // This forces the browser to send your URL as the referrer
-    })
+    // 3. Fetch the data from Google
+    fetch(url)
       .then((response) => {
         if (!response.ok) {
           throw new Error('Failed to fetch data from Google Sheets');
@@ -48,15 +42,17 @@ function GoogleSheetFetcher() {
 
   return (
     <div>
-      <h2>Spreadsheet Values</h2>
-      <ul>
-        {sheetData.map((row, rowIndex) => (
-          <li key={rowIndex}>
-            {/* 'row' is an array representing the columns in that specific row */}
-            {row.join(' | ')}
-          </li>
-        ))}
-      </ul>
+    <h1>本周({sheetData[0]?.[0]})晨兴与读经进度</h1>
+    <hr></hr>
+    <h2>{sheetData[1]?.[0]}</h2>
+    <h3>书目: {sheetData[1]?.[1]} {sheetData[1]?.[2]}</h3>
+    <h3>进度: <a href={sheetData[1]?.[4]}>{sheetData[1]?.[3]}</a></h3>
+    <h2>{sheetData[2]?.[0]}</h2>
+    <h3>{sheetData[2]?.[1]}: <a href={sheetData[2]?.[4]}>{sheetData[2]?.[2]}</a></h3>
+    <h3>{sheetData[3]?.[1]}: <a href={sheetData[3]?.[4]}>{sheetData[3]?.[2]}</a></h3>
+    <h2>{sheetData[4]?.[0]}</h2>
+    <h3>进度: <a href={sheetData[4]?.[4]}>{sheetData[4]?.[1]} {sheetData[4]?.[2]}</a></h3>
+    <h3>{sheetData[5]?.[0]}: {sheetData[5]?.[1]}</h3>
     </div>
   );
 }
