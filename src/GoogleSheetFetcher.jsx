@@ -16,8 +16,14 @@ function GoogleSheetFetcher() {
     const range = 'Main!B2:G6'; // Adjust this range as needed
     const url = `https://sheets.googleapis.com/v4/spreadsheets/${sheetId}/values/${range}?key=${apiKey}`;
 
-    // 3. Fetch the data from Google
-    fetch(url)
+    // 3. Fetch the data from Google with the referrer fix
+    fetch(url, {
+      method: 'GET',
+      headers: {
+        'Accept': 'application/json',
+      },
+      referrerPolicy: 'origin' // This forces the browser to send your URL as the referrer
+    })
       .then((response) => {
         if (!response.ok) {
           throw new Error('Failed to fetch data from Google Sheets');
