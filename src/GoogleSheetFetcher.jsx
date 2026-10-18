@@ -42,7 +42,7 @@ function GoogleSheetFetcher() {
 
   return (
     <div>
-    <h1>本周({sheetData[0]?.[0]})晨兴与读经进度</h1>
+    <h1>本周({sheetData[0]?.[1]})晨兴与读经进度</h1>
     <hr></hr>
     <h2>{sheetData[1]?.[0]}</h2>
     <h3>书目: {sheetData[1]?.[1]} {sheetData[1]?.[2]}</h3>
