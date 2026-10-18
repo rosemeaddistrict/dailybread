@@ -16,7 +16,7 @@
                     "books": [
                         {
                         "name": "約伯記",
-                        "chapters": "第28~32章"
+                        "chapters": "第28 ~ 32章"
                         }
                     ],
                     "link": "https://my-google-api-server.onrender.com/study/?id=1"
